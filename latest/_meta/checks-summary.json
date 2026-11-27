@@ -1,0 +1,38 @@
+{
+  "kicad_version": "10.0.8",
+  "erc": {
+    "errors": 0,
+    "warnings": 156,
+    "exclusions": 0,
+    "error_types": {},
+    "warning_types": {
+      "lib_symbol_issues": 97,
+      "footprint_link_issues": 48,
+      "pin_to_pin": 11
+    }
+  },
+  "drc": {
+    "errors": 0,
+    "warnings": 376,
+    "exclusions": 0,
+    "breakdown": {
+      "rules_errors": 0,
+      "rules_warnings": 226,
+      "unconnected_errors": 0,
+      "unconnected_warnings": 0,
+      "parity_errors": 0,
+      "parity_warnings": 150
+    },
+    "error_types": {},
+    "warning_types": {
+      "silk_edge_clearance": 62,
+      "lib_footprint_issues": 37,
+      "text_height": 1,
+      "silk_overlap": 46,
+      "silk_over_copper": 80,
+      "footprint_symbol_field_mismatch": 37,
+      "net_conflict": 109,
+      "footprint_symbol_mismatch": 4
+    }
+  }
+}

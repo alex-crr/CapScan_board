@@ -1,0 +1,81 @@
+{
+  "version": "main",
+  "version_id": "main",
+  "commit_sha": "9d6429c",
+  "copied_3d": [
+    [
+      "top",
+      "renders/pcb-3d-top.png"
+    ],
+    [
+      "bottom",
+      "renders/pcb-3d-bottom.png"
+    ],
+    [
+      "iso-top",
+      "renders/pcb-3d-iso-top.png"
+    ],
+    [
+      "iso-bottom",
+      "renders/pcb-3d-iso-bottom.png"
+    ]
+  ],
+  "copied_2d": [
+    [
+      "2D Top View",
+      "renders/pcb-2d-top.svg"
+    ],
+    [
+      "2D Bottom View",
+      "renders/pcb-2d-bottom.svg"
+    ]
+  ],
+  "copied_sch_svgs": [
+    [
+      "CapScan5x5",
+      "renders/sch-CapScan5x5.svg"
+    ]
+  ],
+  "dl_entries": [
+    [
+      "JLCPCB Full PCBA Bundle (ZIP)",
+      "files/capscan-main-jlcpcb-production.zip",
+      "45 KB"
+    ],
+    [
+      "JLCPCB Gerbers + Drills (ZIP)",
+      "files/capscan-main-jlcpcb-gerbers.zip",
+      "45 KB"
+    ],
+    [
+      "JLCPCB BOM (CSV)",
+      "files/capscan-main-jlcpcb-bom.csv",
+      "1 KB"
+    ],
+    [
+      "JLCPCB Pick & Place CPL (CSV)",
+      "files/capscan-main-jlcpcb-cpl.csv",
+      "1 KB"
+    ],
+    [
+      "Priced BOM Snapshot (CSV)",
+      "files/capscan-main-bom-priced.csv",
+      "1 KB"
+    ],
+    [
+      "Schematic PDF",
+      "files/capscan-main-schematic.pdf",
+      "167 KB"
+    ],
+    [
+      "3D Mechanical Model (STEP)",
+      "files/capscan-main-3d.step",
+      "2,202 KB"
+    ],
+    [
+      "PCB Renders Pack (ZIP)",
+      "files/capscan-main-renders.zip",
+      "1,263 KB"
+    ]
+  ]
+}
